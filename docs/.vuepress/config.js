@@ -23,7 +23,7 @@ module.exports = {
       { text: '首页', link: '/', icon: 'reco-home' },
       { text: '笔记', link: '/note/', icon: 'reco-document' },
       { text: '时间线', link: '/timeline/', icon: 'reco-date' },
-      { text: 'GitHub', link: 'https://github.com/smallsunnyfox', icon: 'reco-github' }
+      { text: 'GitHub', link: 'https://github.com/JulienZeng', icon: 'reco-github' }
     ],
     friendLink: [
       {
@@ -37,6 +37,12 @@ module.exports = {
         desc: 'A simple and beautiful vuepress Blog & Doc theme.',
         logo: 'https://photo.smallsunnyfox.com/images/blog/friendlink/theme_reco.png',
         link: 'https://vuepress-theme-reco.recoluan.com'
+      },
+      {
+        title: 'latte and cat',
+        desc: 'study programs and record life',
+        logo: 'https://photo.smallsunnyfox.com/images/blog/head.png',
+        link: 'https://blog.smallsunnyfox.com/'
       }
     ],
     // 博客设置
@@ -51,7 +57,7 @@ module.exports = {
       }
     },
     //头像
-    logo: './avatar.jpg',
+    logo: 'http://101.33.208.59/avatar.jpg',
     // 搜索设置
     search: true,
     searchMaxSuggestions: 10,
@@ -67,7 +73,7 @@ module.exports = {
     // 作者
     author: 'JulienZeng',
     //头像
-    authorAvatar: '/avatar.jpg',
+    authorAvatar: 'http://101.33.208.59/avatar.jpg',
     // 备案号
     // record: '豫ICP备19035192号',
     // recordLink: 'https://beian.miit.gov.cn/',
@@ -99,7 +105,7 @@ module.exports = {
         height: 400,
         modelStyle: {
           position: 'fixed',
-          left: '70px',
+          left: '30px',
           bottom: '50px',
           opacity: '0.9'
         },
