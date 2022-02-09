@@ -57,7 +57,7 @@ module.exports = {
       }
     },
     //头像
-    logo: 'http://101.33.208.59/avatar.jpg',
+    logo: 'http://photo.zjlblog.site/avatar.jpg',
     // 搜索设置
     search: true,
     searchMaxSuggestions: 10,
@@ -73,10 +73,10 @@ module.exports = {
     // 作者
     author: 'JulienZeng',
     //头像
-    authorAvatar: 'http://101.33.208.59/avatar.jpg',
+    authorAvatar: 'http://photo.zjlblog.site/avatar.jpg',
     // 备案号
-    // record: '豫ICP备19035192号',
-    // recordLink: 'https://beian.miit.gov.cn/',
+    record: '粤ICP备2022014957号-1',
+    recordLink: 'https://beian.miit.gov.cn/',
     // cyberSecurityRecord: '豫公网安备41172602000151号',
     // cyberSecurityLink: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41172602000151',
     // 项目开始时间
@@ -117,7 +117,9 @@ module.exports = {
         btnStyle: {
           bottom: '60px',
           right: '80px'
-        }
+        },
+        //隐藏按钮
+        clean:true
       }
     ],
     //背景音乐
