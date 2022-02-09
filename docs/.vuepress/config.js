@@ -13,7 +13,8 @@ module.exports = {
     ['link', { rel: 'apple-touch-icon', href: '/icons/LatteAndCat.png' }],
     // ['link', { rel: 'mask-icon', href: '/icons/LatteAndCat.svg', color: '#FF66CC' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/LatteAndCat.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+    ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+    ['meta', { name: 'referrer', content: 'no-referrer'}]
   ],
   themeConfig: {
     type: 'blog',
