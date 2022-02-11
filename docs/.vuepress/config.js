@@ -78,8 +78,8 @@ module.exports = {
     // 备案号
     record: '粤ICP备2022014957号-1',
     recordLink: 'https://beian.miit.gov.cn/',
-    // cyberSecurityRecord: '豫公网安备41172602000151号',
-    // cyberSecurityLink: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41172602000151',
+    cyberSecurityRecord: '粤公网安备 44049102496850号',
+    cyberSecurityLink: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44049102496850',
     // 项目开始时间
     startYear: '2022',
     /**
