@@ -30,20 +30,14 @@ module.exports = {
       {
         title: '午后南杂',
         desc: 'Enjoy when you can, and endure when you must.',
-        logo: 'https://photo.smallsunnyfox.com/images/blog/friendlink/reco.png',
+        logo: 'http://blog.recoluan.com/head.png',
         link: 'https://www.recoluan.com'
       },
       {
         title: 'vuepress-theme-reco',
         desc: 'A simple and beautiful vuepress Blog & Doc theme.',
-        logo: 'https://photo.smallsunnyfox.com/images/blog/friendlink/theme_reco.png',
+        logo: 'https://vuepress-theme-reco.recoluan.com/logo.png',
         link: 'https://vuepress-theme-reco.recoluan.com'
-      },
-      {
-        title: 'latte and cat',
-        desc: 'study programs and record life',
-        logo: 'https://photo.smallsunnyfox.com/images/blog/head.png',
-        link: 'https://blog.smallsunnyfox.com/'
       }
     ],
     // 博客设置
