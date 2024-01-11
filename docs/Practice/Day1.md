@@ -1,14 +1,18 @@
 ---
-title: 实习第一天
+title: Day 1
 date: 2024-1-10
 sidebar: auto
 tags:
  - 实习
+ - AWS PaaS平台
 categories:
- - 学习记录
+ - 实习记录
 ---
 
-# Day 1
+## 平台 / 技术栈
+- AWS PaaS 平台
+- Java
+- Vue
 
 ## AWS PaaS 平台
 
@@ -18,8 +22,8 @@ categories:
 
 ### 架构
 架构分为三层，最底层是AWS平台提供的平台即服务  
-第二层为需要搭建的应用  
-第三层为实际业务所用的应用  
+第二层为开发人员实际开发的应用  
+第三层为实际业务使用人员所使用的应用  
 ![架构](../.vuepress/public/photo/day1/jiagou.png)
 
 ### 整体应用
