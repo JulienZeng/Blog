@@ -1,6 +1,6 @@
 ---
 title: 某工具的搭建
-date: 2024-4-11
+date: 2024-5-29
 sidebar: auto
 tags:
     - VPS
@@ -102,7 +102,7 @@ tags:
     }
     ```
 
--   X-UI 安装
+-   X-UI 安装  
     ![xui_config](../.vuepress/public/photo/v2/xuiSetting.png)
 
 ### 2. 签发证书
